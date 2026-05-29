@@ -64,12 +64,7 @@ main.cpp          # Main application source code
 
 ## Main Interface
 
-*Add your application screenshots here*
-
-Example:
-
-```md
-![Main Interface](images/main-interface.png)
+main_page.png
 ```
 
 ---
