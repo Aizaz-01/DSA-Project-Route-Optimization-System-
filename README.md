@@ -71,7 +71,7 @@ The system reads input from:
 
 |data/input.txt|
 
-# Format:
+## Format:
 
 |CityID X Y|
 
